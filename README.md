@@ -25,9 +25,12 @@ When looking at the total fare by city type across a ~4 month span (see the _Tot
 In addition to waiting for more time to pass to determine trends for the three city types, it would also be in PyBer's best interest to wait until they have a year's worth of data to look at the seasonality of rides. This will also assist them as they try to review the best way to align supply and demand.
 
 PyBer Metrics by City Type
+
 ![PyBer_type_overview](https://github.com/kjminges/PyBer_Analysis/blob/main/analysis/PyBer_type_overview.png)
 
+
 Total Fare by City Type
+
 ![PyBer_fare_summary](https://github.com/kjminges/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Conclusion
